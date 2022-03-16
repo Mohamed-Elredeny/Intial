@@ -40,7 +40,8 @@
     "extra": {
         "laravel": {
             "dont-discover": []
-        }
+        },
+        "module-dir": "Custom"
     },
     "autoload": {
         "psr-4": {
