@@ -41,7 +41,7 @@
         "laravel": {
             "dont-discover": []
         },
-        "module-dir": "Custom"
+        "module-dir": "Intial"
     },
     "autoload": {
         "psr-4": {
